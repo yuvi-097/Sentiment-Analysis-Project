@@ -97,7 +97,6 @@ You can download it from Kaggle: https://www.kaggle.com/datasets/bittlingmayer/a
 ## 👨‍💻 Author
 Yuvraj Srivastava  
 📧 Email: srivastavayuvi016@gmail.com  
-🌐 Portfolio: [Your Portfolio Link]
 
 ## ⭐ Contribute
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
